@@ -54,3 +54,9 @@
     center;
     background-size: cover;
 }
+
+@media screen and (max-width: 500px){
+    .categories-card{
+        width: 100%;
+    }
+}
